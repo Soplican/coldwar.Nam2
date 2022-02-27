@@ -1,0 +1,1 @@
+﻿[] execVM "zeus\curator.sqf";  // Инит зевсов

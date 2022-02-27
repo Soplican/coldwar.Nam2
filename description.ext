@@ -1,0 +1,13 @@
+
+
+respawn = "BASE";
+respawnButton = 1;
+respawnOnStart = -1;
+OnLoadMission = "Добро пожаловать на RP сервер по Вьетнаму на Arma 3. Приятной игры!";
+onLoadName = "ColdWar RP | Vietnam";
+author = created by Mmigas&Mark;
+
+class CfgFunctions
+{
+	#include "VVS\Functions.h"
+};
